@@ -1,0 +1,10 @@
+# FiltroComentarios
+Filtro Wordpress
+
+#PLUGIN PARA WORDPRESS DESENVOLVIDO PARA FILTRAR e mostrar COMENTARIOS QUE FORAM APROVADOS PELO ADMIN DO SITE
+NUM PERIODO ENTRE DUAS DATAS ESPECIFICADA PELO MESMO.
+
+Comentários não aprovados não são filtrados pelo plugin.
+
+
+
