@@ -13,9 +13,9 @@ Author URI:
 */
 
 
-add_action('admin_menu', 'bcss_ticker_plugin_menu');
+add_action('admin_menu', 'plugin_menu');
 
-function bcss_ticker_plugin_menu(){
+function plugin_menu(){
 	add_menu_page('Filtro de Comentários', 'Filtro de comentarios', 'manage_options','config_novo', 'filtro_comentarios');
 }
 
