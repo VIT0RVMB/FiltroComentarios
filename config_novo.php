@@ -14,16 +14,7 @@
 		return date('Y-m-d', strtotime($d2));
 			
 	}
-	
 
-	
-	
-	
-	
-	
-	
-		
-	
 	
 ?>
 
